@@ -1,10 +1,10 @@
-#Data Scientist 
+# Data Scientist 
 
-###Education
+### Education
 Politechnika Rzeszowska
  Elektronika i Telekomunikacja o specjalizacji Telekomunikacja – studia inżynierskie (dzienne)
 
- ###Work experiance
+ ### Work experiance
  07.2022-07.2023  Intel/Experis Poland
  -wsparcie obsługi laboratoriów komputerowych
  -opracowanie i wdrożenie formularza automatyzującego powtarzające czynności techników w oparciu 
@@ -42,7 +42,7 @@ wewnętrzne i zewnętrzne;
 -konfiguracja klienckiego G Suite;
 -tworzenie kopii zapasowych i prowadzenie kont hostingowych;
 
-###Projects
+### Projects
 1. W excelu
    automatyzacja kilku zadań.
 
