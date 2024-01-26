@@ -3,3 +3,12 @@
 <h2><br><b>Education</b></h2>
 <h4 style="font-weight: lighter"><b>Politechnika Rzeszowska</b><br>
   Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
+<h2>Work experiance</h2>
+**Technik laboratorium @ Experis Poland (07-2022 - 07.2023)**
+- wsparcie obsługi laboratoriów komputerowych
+- opracowanie formularza automatyzującego o środowisko Excela i VBA
+- wykonywanie raportów w Excelu na żądanie kierownika zespołu
+- przeprowadzanie rozmów kwalifikujących do pracy w aspekcie wiedzy technicznej
+- tymczasowe koordynowanie zespołem
+- odradztwo techniczne dla klientów Polskich i zagranicznych
+
