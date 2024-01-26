@@ -1,1 +1,2 @@
-<h1 align="center">Welcome to my website</h1>
+<h1 align="center">Portfolio</h1>
+<h4> Basic technical skills: Excel, Power BI, Power Pivot, Power Query, VBA, SQL & data visualization</h4>
