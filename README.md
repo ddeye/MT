@@ -1,5 +1,5 @@
 <h2><b>Podstawowe umiejętności techniczne</b></h2>
-<h4 style="font-weight: lighter">Excel, Power BI, Power Pivot, Power Query, VBA, SQL & data visualization<br></h4>
+<h4 style="font-weight: lighter">Excel, Power BI, Power Pivot, Power Query, VBA, HTML, SQL & data visualization<br></h4>
 <hr>
 
 <h2><br><b>Edukacja</b></h2>
@@ -9,7 +9,7 @@
 <h2><br>Doświadczenie</h2>
 <h4 style="display:inline; line-height:0px; color:black">Technik laboratorium @ Experis Poland (07-2022 - 07.2023)</h4>
 - wsparcie obsługi laboratoriów komputerowych
-- opracowanie formularza automatyzującego o środowisko Excela i VBA
+- opracowanie formularza automatyzującego w Excelu przy pomocy VBA
 - wykonywanie raportów w Excelu na żądanie
 - przeprowadzanie rozmów technicznych kwalifikujących do pracy
 - tymczasowe koordynowanie zespołem
@@ -34,6 +34,6 @@
 
 <h2><br>Projekty</h2>
 <h4 style="display:inline; line-height:0px; color:black">Formularz automatyzujący </h4>
-<p> Projekt został wykonany na potrzeby firmy. Miał za zadanie poprawić ogólny sposób realizowania procedur systemowych. Dzięki automatyzacji powielanych zadań przez pracowników firmy przyśpieszył czas agregacji danych i zmniejszył liczbę błędów. Dodatkowo formularz został wyposarzony w możliwość generowania automatycznych emaili, co zostało osiągnięte przy pomocy HTML.
+<p> &#9;Projekt został wykonany na potrzeby firmy. Miał za zadanie poprawić ogólny sposób realizowania procedur systemowych. Dzięki automatyzacji powielanych zadań przez pracowników firmy przyśpieszył czas agregacji danych i zmniejszył liczbę błędów. Dodatkowo formularz został wyposarzony w możliwość generowania automatycznych emaili, co zostało osiągnięte przy pomocy HTML. </p>
 
 <h4 style="display:inline; line-height:0px; color:black">Projekt Covid-19</h4>
