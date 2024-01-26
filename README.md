@@ -27,7 +27,7 @@
 
 <h4 style="display:inline; line-height:0px; color:black">Dział wsparcia @ GrupaWW/staż (08.2020-09.2020)</h4>
 - zabaezpieczanie stron www postawionych na Wordpresie
-- przeprowadzanie szkoleń z bezpieczeńśtwa sieciowego dla wszystkich pracownikó firmy
+- przeprowadzanie szkoleń z bezpieczeńśtwa sieciowego dla wszystkich pracowników firmy
 - instalacja systemów operacyjnych
 - konfiguracja klienckiego G Suita
 - prowadzenie kont hostingowych firmy i klientów
@@ -37,3 +37,4 @@
 <p align="justify">&emsp;&emsp;&ensp;Projekt został wykonany na potrzeby firmy. Miał za zadanie poprawić ogólny sposób realizowania procedur systemowych. Wprowadzona automatyzacja powielanych zadań przyśpieszyła czas agregacji danych i zmniejszyła liczbę błędów. Dodatkowo formularz został wyposarzony w możliwość generowania automatycznych emaili, co zostało osiągnięte przy pomocy HTML. </p>
 
 <h4 style="display:inline; line-height:0px; color:black">Projekt Covid-19</h4>
+<p align="justify">&emsp;&emsp;&ensp;W czasie post pandemicznym ze zwykłego zainteresowania oraz dla celów prezentaycjnych wykonałem <i>Pulpit nawigacyjny</i>. Projekt korzysta z danych rządowych  </p>
