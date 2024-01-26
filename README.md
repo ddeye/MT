@@ -4,6 +4,7 @@
 
 <h2><br><b>Education</b></h2>
 **Politechnika Rzeszowska**
+<h4>lol</h4>
 <h4 style="font-weight: lighter"; line-height: 1px>Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
 <h2><br>Work experiance</h2>
