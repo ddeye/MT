@@ -37,4 +37,4 @@
 <p align="justify">&emsp;&emsp;&ensp;Projekt został wykonany na potrzeby firmy. Miał za zadanie poprawić ogólny sposób realizowania procedur systemowych. Wprowadzona automatyzacja powielanych zadań przyśpieszyła czas agregacji danych i zmniejszyła liczbę błędów. Dodatkowo formularz został wyposarzony w możliwość generowania automatycznych emaili, co zostało osiągnięte przy pomocy HTML. </p>
 
 <h4 style="display:inline; line-height:0px; color:black">Projekt Covid-19</h4>
-<p align="justify">&emsp;&emsp;&ensp;W czasie post pandemicznym ze zwykłego zainteresowania oraz dla celów prezentaycjnych wykonałem <i>Pulpit nawigacyjny</i>. Projekt korzysta z danych rządowych  </p>
+<p align="justify">&emsp;&emsp;&ensp;W czasie post pandemicznym ze zwykłego zainteresowania oraz dla celów prezentaycjnych wykonałem <i>Pulpit nawigacyjny</i>. Projekt korzysta z rządowych danych <u>gov.pl</u> oraz <u>GUS.pl</u> (główny urząd statystyczny).  </p>
