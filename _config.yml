@@ -1,6 +1,7 @@
----:
 title: Marek Tyluś
+<p align="center">
 logo: /assets/Pic.jpg
+</p>
 description: portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
