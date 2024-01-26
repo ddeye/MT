@@ -19,13 +19,13 @@
 - diagnostyka i naprawa sprzętu komputerowego
 - weryfikacja dokumentacji technicznych 
 
-<h4 style="display:inline; line-height:0px; color:black">Inżynier procesu @ Aptiv </h4>
+<h4 style="display:inline; line-height:0px; color:black">Inżynier procesu @ Aptiv (04.2022 - 06.2022)</h4>
 - rozwiązywanie problemów technicznych i jakościowych
 - przygotowanie i analizowanie raportów w Excelu celem prezentacji na spotkaniach z menadżerami
 - nadzór nad dokumentacją produktów
 - prowadzenie i utrzymywanie akcji tymczasowych na produkcji
 
-<h4 style="display:inline; line-height:0px; color:black">Dział wsparcia @ GrupaWW (intern)</h4>
+<h4 style="display:inline; line-height:0px; color:black">Dział wsparcia @ GrupaWW/staż (08.2020-09.2020)</h4>
 - zabaezpieczanie stron www postawionych na Wordpresie
 - przeprowadzanie szkoleń z bezpieczeńśtwa sieciowego dla wszystkich pracownikó firmy
 - instalacja systemów operacyjnych
