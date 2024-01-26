@@ -6,7 +6,7 @@
 <h4 style="display:inline; line-height:0px; color:black">Politechnika Rzeszowska</h4>
 <h4 style="font-weight: lighter">Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
-<h2><br>Work experiance</h2>
+<h2><br>Doświadczenie</h2>
 <h4 style="display:inline; line-height:0px; color:black">Technik laboratorium @ Experis Poland (07-2022 - 07.2023)</h4>
 - wsparcie obsługi laboratoriów komputerowych
 - opracowanie formularza automatyzującego o środowisko Excela i VBA
@@ -19,3 +19,8 @@
 - diagnostyka i naprawa sprzętu komputerowego
 - weryfikacja dokumentacji technicznych 
 
+<h4 style="display:inline; line-height:0px; color:black">Inżynier procesu @ Aptiv (intern)</h4>
+- rozwiązywanie problemów technicznych i jakościowych
+- przygotowanie i analizowanie raportów w Excelu celem prezentacji na spotkaniach z menadżerami
+- nadzór nad dokumentacją produktów
+- prowadzenie i utrzymywanie akcji tymczasowych na produkcji
