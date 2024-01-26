@@ -7,13 +7,13 @@
 <h4 style="font-weight: lighter">Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
 <h2><br>Doświadczenie</h2>
-<h4 style="display:inline; line-height:0px; color:black">Technik laboratorium @ Experis Poland (07-2022 - 07.2023)</h4>
+<h4 style="display:inline; line-height:0px; color:black">Technik laboratorium @ Experis Poland (07.2022 - 07.2023)</h4>
 - wsparcie obsługi laboratoriów komputerowych
 - zaprogramowanie formularza automatyzującego w Excelu wykorzystując wewnętrzne formuły i język VBA
 - wykonywanie raportów w Excelu na żądanie
 - przeprowadzanie rozmów technicznych kwalifikujących do pracy
 - tymczasowe koordynowanie zespołem
-- odradztwo techniczne dla klientów Polskich i zagranicznych
+- doradztwo techniczne dla klientów polskich i zagranicznych
 - wykonywanie szkoleń dla nowych pracowników
 - wypełnianie danych w systemowych bazach 
 - diagnostyka i naprawa sprzętu komputerowego
