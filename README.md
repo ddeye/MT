@@ -3,8 +3,7 @@
 <hr>
 
 <h2><br><b>Education</b></h2>
-**Politechnika Rzeszowska**
-<h2 style="display:inline; line-height:0px"></h2>
+<h2 style="display:inline; line-height:0px">Politechnika Rzeszowska</h2>
 <h4>Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
 <h2><br>Work experiance</h2>
