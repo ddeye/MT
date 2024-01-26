@@ -2,7 +2,7 @@
 <h4 style="font-weight: lighter">Excel, Power BI, Power Pivot, Power Query, VBA, SQL & data visualization<br></h4>
 <hr>
 
-<h2><br><b>Education</b></h2>
+<h2 style="display:inline; line-height:0px"><br><b>Education</b></h2>
 **Politechnika Rzeszowska**
 <h4 style="display:inline; line-height:0">Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
