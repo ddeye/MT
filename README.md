@@ -1,7 +1,7 @@
-# Data Scientist 
+# Porfolio
 
-### Education
-Politechnika Rzeszowska
+## Education
+###Politechnika Rzeszowska
  Elektronika i Telekomunikacja o specjalizacji Telekomunikacja – studia inżynierskie (dzienne)
 
  ### Work experiance
