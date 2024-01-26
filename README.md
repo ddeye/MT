@@ -4,8 +4,7 @@
 
 <h2><br><b>Education</b></h2>
 **Politechnika Rzeszowska**
-<p style="display:inline; line-height:0px"></p>
-<h4 style="font-weight: lighter">Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
+<h4 style="font-weight: lighter"; style="display:inline; line-height:0px" >Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
 <h2><br>Work experiance</h2>
 **Technik laboratorium @ Experis Poland (07-2022 - 07.2023)**
