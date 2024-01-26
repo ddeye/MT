@@ -1,7 +1,7 @@
 # Porfolio
 
 ## Education
-###Politechnika Rzeszowska
+### Politechnika Rzeszowska
  Elektronika i Telekomunikacja o specjalizacji Telekomunikacja – studia inżynierskie (dzienne)
 
  ### Work experiance
