@@ -38,3 +38,17 @@
 
 <h4 style="display:inline; line-height:0px; color:black">Projekt Covid-19</h4>
 <p align="justify">&emsp;&emsp;&ensp;W czasie post pandemicznym ze zwykłego zainteresowania oraz dla celów prezentaycjnych wykonałem <i>Pulpit nawigacyjny</i>. Dashboard został zaprojektowany zgodnie z przyjętymi standardami projektowania i wizualizowania danych w świecie "Data science". Projekt korzysta z rządowych danych <u>gov.pl</u> oraz <u>GUS.pl</u> (główny urząd statystyczny). Ze względu na ogromną liczbe danych został oparty na silniku ETL - Power Query. Dashboard  składa się z wielu elementów wizaulizayjnych min. paska postępu, wykresów miernikowych, słupkowych czy map, które przedstawiają informację o zarażeniach i zaszczepieniach z perspektywy całego kraju lub poszczególnych województw. <i>Pulpi nawigayjny</i> dzięki wyposażeniu w elementy dynamiczne zmienia swoje wartości automatycznie do wyboru użytkownika. Z perspektywy projektu najważnijesze wskaźniki KPI zostały umieszczone w lewej, górnej cześci pulpitu. Dasboard został wyposażony w wykres kombi, który prezentuje korelację zestawienia zgonów i szczepień dla danych województw. Dane dzięki Power Query zostały zaagregowane dla każdego województwa w każdym miesiąciu trwania pandemi. Suwak przewijania umożliwia prześledzenie również danych historycznych. </p>
+
+<h2><br>Certyfikaty</h2>
+- CISCO CCNA v7 "Introduction to network"
+- CISCO CCNA v7 "Switching, Routing and Wireless Essentials"
+- CISCO CCNA v7 "Enterprise Networking, Security and Automation"
+- kurs obługi programów biurowych MS Office ECDL
+
+
+
+
+
+
+
+
