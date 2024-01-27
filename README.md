@@ -26,7 +26,7 @@
 - prowadzenie i utrzymywanie akcji tymczasowych na produkcji
 
 <h4 style="display:inline; line-height:0px; color:black">Dział wsparcia @ GrupaWW/staż (08.2020-09.2020)</h4>
-- zabaezpieczanie stron www postawionych na Wordpresie
+- zabezpieczanie stron www postawionych na Wordpresie
 - przeprowadzanie szkoleń z bezpieczeńśtwa sieciowego dla wszystkich pracowników firmy
 - instalacja systemów operacyjnych
 - konfiguracja klienckiego G Suita
