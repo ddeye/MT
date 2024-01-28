@@ -3,7 +3,3 @@ logo: /assets/Pic.jpg
 #description: Fakty są uparte, ale statystyki są bardziej elastyczne         -Marek Twain
 show_downloads: true
 theme: jekyll-theme-minimal
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
