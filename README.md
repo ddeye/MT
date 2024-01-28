@@ -27,7 +27,7 @@
 
 <h4 style="display:inline; line-height:0px; color:black">Dział wsparcia @ GrupaWW/staż (08.2020-09.2020)</h4>
 - zabezpieczanie stron www postawionych na Wordpresie
-- przeprowadzanie szkoleń z bezpieczeńśtwa sieciowego dla wszystkich pracowników firmy
+- przeprowadzanie szkoleń z bezpieczeństwa sieciowego dla wszystkich pracowników firmy
 - instalacja systemów operacyjnych
 - konfiguracja klienckiego G Suita
 - prowadzenie kont hostingowych firmy i klientów
