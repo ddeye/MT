@@ -9,7 +9,6 @@
 <h2><br>Doświadczenie</h2>
 <h4 style="display:inline; line-height:0px; color:black">Własny projekt IT w przestrzeni data science (08.2023 - aktualnie)</h4>
 <br>
-
 <h4 style="display:inline; line-height:0px; color:black">Wsparcie laboratoryjne @ Intel (07.2022 - 07.2023)</h4>
 - wsparcie obsługi laboratoriów komputerowych
 - zaprogramowanie formularza automatyzującego w Excelu wykorzystując wewnętrzne formuły i język VBA
