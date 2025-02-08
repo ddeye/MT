@@ -7,7 +7,8 @@
 <h4 style="font-weight: lighter">Elektronika i telekomunikacja - dzienne studia inżynierskie</h4>
 
 <h2><br>Doświadczenie</h2>
-<h4 style="display:inline; line-height:0px; color:black">Własny projekt informatyczny w przestrzeni data science (08.2023 - aktualnie)</h4>
+<h4 style="display:inline; line-height:0px; color:black">Własny projekt IT w przestrzeni data science (08.2023 - aktualnie)</h4>
+<h4 style="display:inline; line-height:0px; color:black"></h4>
 <h4 style="display:inline; line-height:0px; color:black">Wsparcie laboratoryjne @ Intel (07.2022 - 07.2023)</h4>
 - wsparcie obsługi laboratoriów komputerowych
 - zaprogramowanie formularza automatyzującego w Excelu wykorzystując wewnętrzne formuły i język VBA
